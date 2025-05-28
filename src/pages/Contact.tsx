@@ -184,7 +184,7 @@ const Contact = () => {
                       <p className="text-gray-600">Speak with our team</p>
                     </div>
                   </div>
-                  <p className="text-blue-600 font-medium">1-800-RECEPTIX</p>
+                  <p className="text-blue-600 font-medium">(855) 737-2374</p>
                 </CardContent>
               </Card>
 
@@ -204,19 +204,6 @@ const Contact = () => {
                     <p>Saturday: 9:00 AM - 2:00 PM EST</p>
                     <p>Sunday: Closed</p>
                   </div>
-                </CardContent>
-              </Card>
-
-              {/* Chatbot Placeholder */}
-              <Card className="bg-gradient-to-br from-blue-600 to-teal-600 text-white shadow-xl">
-                <CardContent className="p-8 text-center">
-                  <h3 className="text-xl font-bold mb-4">Try Our AI Assistant</h3>
-                  <p className="mb-6">
-                    Experience ReceptixAI in action! Chat with our demo AI to see how we handle patient inquiries.
-                  </p>
-                  <Button variant="secondary" className="bg-white text-blue-600 hover:bg-gray-100">
-                    Start Chat Demo
-                  </Button>
                 </CardContent>
               </Card>
             </div>
